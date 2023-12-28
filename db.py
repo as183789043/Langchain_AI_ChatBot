@@ -9,7 +9,8 @@ from langchain.embeddings import CacheBackedEmbeddings
 
 
 def load_doc_to_embedding():
-    loader  = PyPDFDirectoryLoader(r"C:\Users\2200908.SYSTEX\Desktop\aischool\venv\documents")
+    # loader  = PyPDFDirectoryLoader(r"C:\Users\2200908.SYSTEX\Desktop\aischool\venv\documents")
+    loader  = PyPDFDirectoryLoader(r".\documents")
     docs = loader.load()
 
 
