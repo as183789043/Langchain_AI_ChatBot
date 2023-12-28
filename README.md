@@ -1,4 +1,4 @@
-# Langchain_AI_ChatBot
+# Langchain - AI ChatBot
 Create an AI chatbot for RAG search and external data search through Streamlit combined with LangChain
 
 ## Demo [Streamlit_Cloud](https://langchainaichatbot-jpzzuucramkynhxkpnqhje.streamlit.app/)
