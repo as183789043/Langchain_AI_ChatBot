@@ -9,7 +9,7 @@ Create an AI chatbot for RAG search and external data search through Streamlit c
 
 
 
-## Landing pafe if not enter key
+## Landing page if not enter key
 ![image](https://github.com/as183789043/Langchain_AI_ChatBot/assets/56618553/7a40ae27-3e5e-42bb-81a2-9346c24f3d22)
 
 
